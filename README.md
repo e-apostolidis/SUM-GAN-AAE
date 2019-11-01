@@ -94,4 +94,4 @@ Copyright (c) 2019, Evlampios Apostolidis, Eleni Adamantidou, Alexandros I. Mets
 This software is provided by the authors "as is" and any express or implied warranties, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose are disclaimed. In no event shall the authors be liable for any direct, indirect, incidental, special, exemplary, or consequential damages (including, but not limited to, procurement of substitute goods or services; loss of use, data, or profits; or business interruption) however caused and on any theory of liability, whether in contract, strict liability, or tort (including negligence or otherwise) arising in any way out of the use of this software, even if advised of the possibility of such damage.
 
 ## Acknowledgement
-This work was supported by the European Union Horizon 2020 research and innovation programme under contract H2020-780656 ReTV.
+This work was supported by the European Union Horizon 2020 research and innovation programme under contract H2020-780656 ReTV. The work of Ioannis Patras has been supported by EPSRC under grant No. EP/R026424/1.
