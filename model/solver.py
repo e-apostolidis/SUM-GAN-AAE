@@ -60,10 +60,6 @@ class Solver(object):
 
         return torch.norm(h_origin - h_sum, p=2)
 
-    def prior_loss(self, mu, log_variance):
-        """KL( q(e|x) || N(0,1) )"""
-        return 0.5 * torch.sum(-1 + log_variance.exp() + mu.pow(2) - log_variance)
-
     def sparsity_loss(self, scores):
         """Summary-Length Regularization"""
 
