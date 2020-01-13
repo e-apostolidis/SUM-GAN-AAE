@@ -85,6 +85,8 @@ If you find this code useful in your work, please cite the following publication
 
 E. Apostolidis, E. Adamantidou, A. I. Metsai, V. Mezaris, I. Patras. **"Unsupervised Video Summarization via Attention-Driven Adversarial Learning"**. Proc. 26th Int. Conference on Multimedia Modeling (MMM 2020), January 5-8, 2020, Daejeon, Korea
 
+DOI: https://doi.org/10.1007/978-3-030-37731-1_40
+
 ## License
 Copyright (c) 2019, Evlampios Apostolidis, Eleni Adamantidou, Alexandros I. Metsai, Vasileios Mezaris, Ioannis Patras / CERTH-ITI. All rights reserved. This code is provided for academic, non-commercial use only. Redistribution and use in source and binary forms, with or without modification, are permitted for academic non-commercial use provided that the following conditions are met:
 
