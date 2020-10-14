@@ -1,7 +1,7 @@
 # Unsupervised Video Summarization via Attention-Driven Adversarial Learning
 
 ## PyTorch Implementation of SUM-GAN-AAE
-- From **"Unsupervised Video Summarization via Attention-Driven Adversarial Learning"** (to appear in the 26th Int. Conference on Multimedia Modeling (MMM 2020), January 5-8, 2020, Daejeon, Korea)
+- From **"Unsupervised Video Summarization via Attention-Driven Adversarial Learning"** (26th Int. Conference on Multimedia Modeling (MMM 2020), January 5-8, 2020, Daejeon, Korea)
 - Written by Evlampios Apostolidis, Eleni Adamantidou, Alexandros I. Metsai, Vasileios Mezaris and Ioannis Patras
 - This software can be used for training an attention-driven, GAN-based deep learning architecture for automatic video summarization. Training is performed in a fully unsupervised manner without the need for ground-truth data (such as human-generated video summaries). After being unsupervisingly trained on a collection of videos, the SUM-GAN-AAE model is capable of producing representative summaries for unseen videos, according to a user-specified time-budget about the summary duration.
 
